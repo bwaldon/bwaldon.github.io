@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+While at Stanford, I’ve had the pleasure of TAing and grading for Judith Degen’s Intro to Psycholinguistics course (LINGUIST 145 / PSYCH 140) and guest lecturing multiple times in Cleo Condoravdi’s undergraduate seminar on linguistic meaning and legal interpretation (LINGUIST 30N).  
 
-Organize your courses by years, topics, or universities, however you like!
+Prior to Stanford, I worked as an instructor for The Princeton Review, teaching the ACT (US college entrance exam) and GMAT (MBA program entrance exam).
