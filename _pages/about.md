@@ -17,13 +17,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Preferred pronouns: he/him/his
+You can find a current (as of 10/23/22) version of my CV [here](/assets/pdf/waldon_cv_102322.pdf).
 
 I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, and implicature. 
 
 Recently, I’ve also become interested in discourse contexts - and features of contexts - that are often relegated to the margins of linguistic theory. Right now, I’m thinking a lot about statutory interpretation as well as the role of racial bias in pragmatic inference.
 
-I’m currently in my 4th year of the Linguistics PhD program at Stanford University. My two qualifying paper projects were advised by Cleo Condoravdi and Judith Degen. Before coming to Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+I’m currently in my final year of the Linguistics PhD program at Stanford. My two qualifying paper projects were advised by Cleo Condoravdi and Judith Degen. Before coming to Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+
+Preferred pronouns: he/him/his
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
