@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_23.jpg
   address: >
     <p>Margaret Jacks Hall rm. 121</p>
     <p>450 Jane Stanford Way (Bldg 460)</p>
