@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-You can find a current (as of 10/23/22) version of my CV [here](/assets/pdf/waldon_cv_102322.pdf).
+You can find a current (as of 10/23/22) version of my CV [here](/assets/pdf/waldon_CV_102322.pdf).
 
 I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, and implicature. 
 
