@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 You can find a current (as of 06/16/2023) version of my CV [here](/assets/pdf/waldon_cv_061623.pdf).
 
-I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, and implicature. 
+I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, referring expression production, and implicature. 
 
-Recently, I’ve also become interested in discourse contexts - and features of contexts - that are often relegated to the margins of linguistic theory. Right now, I’m thinking a lot about statutory interpretation as well as the role of racial bias in pragmatic inference.
+I am affiliated with [Stanford ALPS Lab](https://alpslab.stanford.edu/) and, for the 2022-2023 academic year, Stanford's Institute for Human-centered Artificial Intelligence (HAI) through their [Seed Research Grant program](https://hai.stanford.edu/seed-grant-recipients-2022) (project title: *Towards Clear, Transparent, and Scalable Computational Contract Technology*). 
 
-I’m currently in my final year of the Linguistics PhD program at Stanford. My two qualifying paper projects were advised by Cleo Condoravdi and Judith Degen. Before coming to Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+I’m currently in my final year of the Linguistics PhD program at Stanford. My dissertation project is advised by Cleo Condoravdi and Judith Degen. Before coming to Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
 
 Preferred pronouns: he/him/his
 
