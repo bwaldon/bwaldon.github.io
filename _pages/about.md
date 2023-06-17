@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic_23.jpg
   address: >
-    <p>Margaret Jacks Hall rm. 121</p>
+    <p>Margaret Jacks Hall rm. 122</p>
     <p>450 Jane Stanford Way (Bldg 460)</p>
     <p>Stanford, CA 94305</p>
 
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-You can find a current (as of 02/23/2023) version of my CV [here](/assets/pdf/waldon_cv_0223.pdf).
+You can find a current (as of 06/16/2023) version of my CV [here](/assets/pdf/waldon_cv_061623.pdf).
 
 I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, and implicature. 
 
