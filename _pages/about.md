@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic_23.jpg
+  image: gtownimage.jpeg
   address: >
     <small>
     <p>Saint Mary's Hall <p> 
@@ -22,7 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- You can find a current (as of 10/29/2023) version of my CV [here](/assets/pdf/waldon_cv_1023.pdf). -->
 
-My research examines how context, linguistic structure, and social cognition jointly enable linguistic communication. Some of my interests within semantic & pragmatic theory include: modality, linguistic vagueness/imprecision, and conversational implicature. I’m also interested in using linguistic theory, experimental data, and computatational methods to help lawyers, judges, and the public navigate hard problems of legal textual analysis.
+My research examines how context, linguistic structure, and social cognition jointly enable linguistic communication. Some of my interests within semantic & pragmatic theory include: modality, linguistic vagueness/imprecision, and conversational implicature. 
+
+I’m also interested in legal interpretation: my work employs linguistic theory, experimental data, and computatational methods to help lawyers, judges, and the public navigate hard problems of legal textual analysis.
 
 I'm thrilled to be joining the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/) as an assistant professor starting August 2025.
 
