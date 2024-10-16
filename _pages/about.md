@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 My research examines how context, linguistic structure, and social cognition jointly enable linguistic communication. Some of my interests within semantic & pragmatic theory include: modality, linguistic vagueness/imprecision, and conversational implicature. 
 
-I’m also interested in legal interpretation: my work employs linguistic theory, experimental data, and computational methods to help lawyers, judges, and the public navigate hard problems of legal textual analysis.
+I’m also interested in legal interpretation: my work employs linguistic theory, experimentation, and computational methods to help lawyers, judges, and the public navigate hard problems of legal textual analysis.
 
 I'm thrilled to be joining the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/) as an assistant professor starting August 2025.
 
