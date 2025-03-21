@@ -8,7 +8,7 @@ nav: false
 
 ## Work completed as part of 2024-2025 Fritz Fellowship
 
-### On the interpretation of 'firearm'
+### On the interpretation of *firearm*
 - [Law review article (Harvard Journal on Leglislation)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881277)
 
 - [Amicus brief submitted in *Garland v. VanDerStok*](https://www.supremecourt.gov/DocketPDF/23/23-852/316214/20240702134621040_23-852%20tsacProfessorsAndScholarsOfLinguisticsAndLaw.pdf)
