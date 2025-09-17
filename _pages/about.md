@@ -9,7 +9,7 @@ profile:
   image: waldon.png
   address: >
     <small>
-    <p>Office: Close-Hipp 128<p>
+    <p>Office: Close-Hipp 528<p>
     <p>1705 College St<p>
     <p>Columbia, SC 29208<p>
     </small>
