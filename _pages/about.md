@@ -6,13 +6,12 @@ description:
 
 profile:
   align: right
-  image: gtownimage.jpeg
+  image: waldon.png
   address: >
     <small>
-    <p>Saint Mary's Hall <p> 
-    <p>Room G-30</p>
-    <p>3700 Reservoir Rd NW</p>
-    <p>Washington, DC 20057</p>
+    <p>Office: Close-Hipp 128<p>
+    <p>1705 College St<p>
+    <p>Columbia, SC 29208<p>
     </small>
 
 news: true  # includes a list of news items
@@ -22,15 +21,15 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- You can find a current (as of 10/29/2023) version of my CV [here](/assets/pdf/waldon_cv_1023.pdf). -->
 
+I'm an assistant professor in the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/).
+
 My research examines how context, linguistic structure, and social cognition jointly enable linguistic communication. Some of my interests within semantic & pragmatic theory include: modality, linguistic vagueness/imprecision, and conversational implicature. 
 
 I’m also interested in legal interpretation: my work employs linguistic theory, experimentation, and computational methods to help lawyers, judges, and the public navigate hard problems of legal textual analysis.
 
-I'm thrilled to be joining the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/) as an assistant professor starting August 2025.
+Previously, I was a postdoc in Computer Science, Linguistics, and Public Policy at Georgetown, where I was affiliated with [Nathan Schneider's NERT lab](https://nert.georgetown.edu/), [Computational Linguistics @ Georgetown (GUCL)](https://gucl.georgetown.edu/), and the [Massive Data Institute](https://mdi.georgetown.edu/). I was supported in part by a [Fritz Fellowship](https://techandsociety.georgetown.edu/projects/fritz-family-fellows-program/) in Georgetown's Tech & Society Initiative.
 
-Currently, I'm a postdoc in Computer Science and Linguistics at Georgetown, where I'm affiliated with [Nathan Schneider's NERT lab](https://nert.georgetown.edu/), [Computational Linguistics @ Georgetown (GUCL)](https://gucl.georgetown.edu/), and the [Massive Data Institute](https://mdi.georgetown.edu/) at the McCourt School of Public Policy. For the 2024-25 academic year, I am a [Fritz Fellow](https://techandsociety.georgetown.edu/projects/fritz-family-fellows-program/) in Georgetown's Tech & Society Initiative.
-
-I received my PhD in Linguistics at Stanford, where I was advised by Cleo Condoravdi and Judith Degen. Before Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+I received my PhD in Linguistics at Stanford, where I was advised by Cleo Condoravdi and Judith Degen. I was supported in part by an NSF Graduate Research Fellowship. Before Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
 
 
 <!-- I am affiliated with [Stanford ALPS Lab](https://alpslab.stanford.edu/) and, for the 2022-2023 academic year, Stanford's Institute for Human-centered Artificial Intelligence (HAI) through their [Seed Research Grant program](https://hai.stanford.edu/seed-grant-recipients-2022) (project title: *Towards Clear, Transparent, and Scalable Computational Contract Technology*).  -->
