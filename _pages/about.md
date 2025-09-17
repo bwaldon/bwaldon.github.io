@@ -25,7 +25,7 @@ I'm an assistant professor in the University of South Carolina's [Linguistics Pr
 
 My research examines the ways in which context, linguistic meaning, and social cognition jointly enable linguistic communication. Some of my interests within linguistic theory include modality, vagueness/imprecision, and conversational implicature. I approach these topics using a variety of tools, including formal analysis, psycholinguistic experimentation, and computational modeling.
 
-I am also interested in legal interpretation. Much of my recent work applies analytical insights from linguistics and philosophy of language to help lawyers, judges, and the public navigate challenging problems of legal textual analysis.
+I'm also interested in legal interpretation. Much of my recent work applies analytical insights from linguistics and philosophy of language to help lawyers, judges, and the public navigate challenging problems of legal textual analysis.
 
 Previously, I was a postdoc in Computer Science, Linguistics, and Public Policy at Georgetown, where I was affiliated with [Nathan Schneider's NERT lab](https://nert.georgetown.edu/), [Computational Linguistics @ Georgetown (GUCL)](https://gucl.georgetown.edu/), and the [Massive Data Institute](https://mdi.georgetown.edu/). I was supported in part by a [Fritz Fellowship](https://techandsociety.georgetown.edu/projects/fritz-family-fellows-program/) in Georgetown's Tech & Society Initiative.
 
