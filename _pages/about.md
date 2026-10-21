@@ -6,24 +6,34 @@ description:
 
 profile:
   align: right
-  image: prof_pic_23.jpg
+  image: waldon.png
   address: >
-    <p>Margaret Jacks Hall rm. 121</p>
-    <p>450 Jane Stanford Way (Bldg 460)</p>
-    <p>Stanford, CA 94305</p>
+    <small>
+    <p>Office: Close-Hipp 528<p>
+    <p>1705 College St<p>
+    <p>Columbia, SC 29208<p>
+    </small>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-You can find a current (as of 02/23/2023) version of my CV [here](/assets/pdf/waldon_cv_0223.pdf).
+<!-- You can find a current (as of 10/29/2023) version of my CV [here](/assets/pdf/waldon_cv_1023.pdf). -->
 
-I research the ways in which context, linguistic structure, and social cognition jointly enable successful linguistic communication. To better understand the division of labor between these three things, I've worked on a variety of topics including linguistic vagueness/imprecision, modality, and implicature. 
+I'm an assistant professor in the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/).
 
-Recently, I’ve also become interested in discourse contexts - and features of contexts - that are often relegated to the margins of linguistic theory. Right now, I’m thinking a lot about statutory interpretation as well as the role of racial bias in pragmatic inference.
+My research examines the ways in which context, linguistic meaning, and social cognition jointly enable linguistic communication. Some of my interests within linguistic theory include modality, vagueness/imprecision, and conversational implicature. I approach these topics using a variety of tools, including formal analysis, psycholinguistic experimentation, and computational modeling.
 
-I’m currently in my final year of the Linguistics PhD program at Stanford. My two qualifying paper projects were advised by Cleo Condoravdi and Judith Degen. Before coming to Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+I'm also interested in legal interpretation. Much of my recent work applies analytical insights from linguistics and philosophy of language to help lawyers, judges, and the public navigate challenging problems of legal textual analysis.
+
+Previously, I was a postdoc in Computer Science, Linguistics, and Public Policy at Georgetown, where I was affiliated with [Nathan Schneider's NERT lab](https://nert.georgetown.edu/), [Computational Linguistics @ Georgetown (GUCL)](https://gucl.georgetown.edu/), and the [Massive Data Institute](https://mdi.georgetown.edu/). I was supported in part by a [Fritz Fellowship](https://techandsociety.georgetown.edu/projects/fritz-family-fellows-program/) in Georgetown's Tech & Society Initiative.
+
+I received my PhD in Linguistics at Stanford, where I was advised by Cleo Condoravdi and Judith Degen. I was supported in part by an NSF Graduate Research Fellowship. Before Stanford, I was a Fulbright scholar at Leibniz-ZAS Berlin and a BA student at UChicago.
+
+
+<!-- I am affiliated with [Stanford ALPS Lab](https://alpslab.stanford.edu/) and, for the 2022-2023 academic year, Stanford's Institute for Human-centered Artificial Intelligence (HAI) through their [Seed Research Grant program](https://hai.stanford.edu/seed-grant-recipients-2022) (project title: *Towards Clear, Transparent, and Scalable Computational Contract Technology*).  -->
+
 
 Preferred pronouns: he/him/his
 

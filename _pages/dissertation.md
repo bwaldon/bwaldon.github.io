@@ -3,7 +3,7 @@ layout: page
 permalink: /dissertation/
 title: dissertation project
 description: 
-nav: true
+nav: false
 ---
 
 *Probabilistic language understanding and formal linguistic theory*
