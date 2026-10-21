@@ -154,8 +154,8 @@ scholar:
 
 enable_google_analytics:    false
 enable_panelbear_analytics: false
-enable_mansory:             true
-enable_math:                true
+enable_mansory:             false
+enable_math:                false
 enable_tooltips:            false
 enable_darkmode:            true
 show_social_icons:          false
