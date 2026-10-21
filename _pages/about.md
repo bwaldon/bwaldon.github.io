@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- You can find a current (as of 10/29/2023) version of my CV [here](/assets/pdf/waldon_cv_1023.pdf). -->
-
 I'm an assistant professor in the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/). I also co-direct the [Legal Interpretation and Technology (LegIT)](https://legit.georgetown.edu/) lab at Georgetown University.
 
 My research examines the ways in which context, linguistic meaning, and social cognition jointly enable linguistic communication. Some of my interests within linguistic theory include modality, vagueness/imprecision, and conversational implicature. I approach these topics using a variety of tools, including formal analysis, psycholinguistic experimentation, and computational modeling.
