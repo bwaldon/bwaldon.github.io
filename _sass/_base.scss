@@ -171,6 +171,13 @@ a, table.table a {
   text-align: center;
   .contact-icon {
     font-size: 4rem;
+    // Inline SVG icons (for brands missing from Font Awesome 5), sized like the glyphs
+    .svg-icon {
+      height: 1em;
+      width: 1em;
+      vertical-align: -0.125em;
+      fill: currentColor;
+    }
     a {
       color: var(--global-icon-color);
       &:hover {
