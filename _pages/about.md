@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- You can find a current (as of 10/29/2023) version of my CV [here](/assets/pdf/waldon_cv_1023.pdf). -->
 
-I'm an assistant professor in the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/).
+I'm an assistant professor in the University of South Carolina's [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/) and [Department of Philosophy](https://sc.edu/study/colleges_schools/artsandsciences/philosophy/). I also co-direct the [Legal Interpretation and Technology (LegIT)](https://legit.georgetown.edu/) lab at Georgetown University.
 
 My research examines the ways in which context, linguistic meaning, and social cognition jointly enable linguistic communication. Some of my interests within linguistic theory include modality, vagueness/imprecision, and conversational implicature. I approach these topics using a variety of tools, including formal analysis, psycholinguistic experimentation, and computational modeling.
 
-I'm also interested in legal interpretation. Much of my recent work applies analytical insights from linguistics and philosophy of language to help lawyers, judges, and the public navigate challenging problems of legal textual analysis.
+I'm also interested in legal interpretation. Much of my recent work applies analytical insights from linguistics and philosophy of language to help lawyers, judges, and the public navigate challenging problems of legal textual analysis. With linguist and law scholar collaborators, I've co-authored three [amicus briefs](https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/195246856/Sample%20Pages.pdf) filed in Supreme Court statutory interpretation cases. One such brief was cited by a 7-2 Supreme Court majority in *Bondi v. VanDerStok*.
 
 Previously, I was a postdoc in Computer Science, Linguistics, and Public Policy at Georgetown, where I was affiliated with [Nathan Schneider's NERT lab](https://nert.georgetown.edu/), [Computational Linguistics @ Georgetown (GUCL)](https://gucl.georgetown.edu/), and the [Massive Data Institute](https://mdi.georgetown.edu/). I was supported in part by a [Fritz Fellowship](https://techandsociety.georgetown.edu/projects/fritz-family-fellows-program/) in Georgetown's Tech & Society Initiative.
 
